@@ -1,5 +1,5 @@
 # Tree Walk Language Interpreter
-In this project I successfully solo developed a Java tree walk interpreter utilizing OpenJDK for a language called Lox. The interpreter features a 
+In this project I successfully replicated a Java tree walk interpreter, following the book Crafting Interpreters, utilizing OpenJDK for a language called Lox. The interpreter features a 
 scanner (lexer), parser, and AST-based interpreter to tokenize, parse, and execute code.This language up to this point is pretty simple only 
 implementing dynamic variables, operands, printing, if statements, else statements, for loops, while loops, and the basics of scope in the form of 
 nested blocks. To use the interpreter, download the 'Tree Walk Language Interpreter' folder on a windows 11 machine. Then open the project folder in 
