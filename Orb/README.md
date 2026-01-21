@@ -7,8 +7,11 @@ With access to the tastytrade API, you can run this tool with the "orb.py" scrip
 Alternatively, these variables can be changed in the code file.
 
 Orb works by first, handling your options:
+
 -t {symbol} : ticker (stock symbol)
+
 -s {num} : steps (how many 5 minute steps it will predict next. For example 3 steps would be a next 15 minute prediciton)
+
 -p : bool if it will plot the predictions or not
 
 Second, Orb will fetch the most recent 90 days worth of market data for the ticker given and save it to a CSV. Third, "model.py" file will execute. This cleans the CSV to be a ML friendly dataframe first, 
