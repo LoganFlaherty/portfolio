@@ -1,5 +1,5 @@
 # Portfolio
-A repo that acts as a portfolio for all my computing projects that demostrate my skill set. Each project has a README within its directory that goes into more detail about the project.
+A repo for my project portfolio that demostrate my skill set. Each project has a README within its directory that goes into more detail about the project.
 
 ## Ocean FFT Simulation
 This project focuses on the dynamic simulation of an ocean using the Fast Fourier Transform (FFT) technique, which models the oceans surface as a sum of sin waves across various frequencies and directions. Furthermore, the algorithm takes into account wind speed, wing angle, and time dialation (the time relative to the simulation). It was built using Python 3.11 with standard math libraries and matplot for visualization.
