@@ -1,2 +1,0 @@
-C:\Users\Logan\OneDrive\Documents\Projects\Discord\Storytime Discord Bot\Storytime Bot\obj\Release\Storytime Bot.csproj.AssemblyReference.cache
-C:\Users\Logan\OneDrive\Documents\Projects\Discord\Storytime Discord Bot\Storytime Bot\obj\Release\Storytime Bot.csproj.CoreCompileInputs.cache
